@@ -9,7 +9,7 @@ I'm learning ClojureScript programming by creating a command-line application wh
     - start-date: The start date of the exhibition (format: YYYY-MM-DD)
     - end-date: The end date of the exhibition (format: YYYY-MM-DD)
     - website: The URL
-* Search the Sanity studio for the art calendar to determine if the venue already exists. Create a new draft event, either with the exisiting venue, or a fallback default venue.
+* Search the [Sanity](https://www.sanity.io/) studio for the art calendar to determine if the venue already exists. Create a new draft event, either with the exisiting venue, or a fallback default venue.
 * Deletes the URL from the are.na channel and saves it to an archive channel.
 
 
