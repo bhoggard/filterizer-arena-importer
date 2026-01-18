@@ -1,0 +1,3 @@
+{:tasks {import (shell "clj -M -m cljs.main -re node -m filterizer-arena-importer.core")}}
+  
+ 
